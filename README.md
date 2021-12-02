@@ -1,4 +1,4 @@
-# uid display for test acl
+# uid display for test acl linux
 
 ```
 $> gcc uid.c
